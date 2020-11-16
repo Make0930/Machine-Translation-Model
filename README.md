@@ -22,7 +22,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Greedy-Search.png" width="400" />
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Beam_Search.png" width="400" /> 
 </p>
-Greedy Search     Beam Search
+                                                   Greedy Search     Beam Search
 
 ## 3. Colcusion
 1. For long sequences, the attention mechanism can significantly improve model performance
