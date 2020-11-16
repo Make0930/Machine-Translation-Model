@@ -1,4 +1,4 @@
-# Machine Translation Model based on encoder + decoder + attention
+# Machine Translation Model based on Encoder + Dcoder + Attention
 
 ## 1. Introduction
 There are 2 models based on encoder-decoder structure. And they are uesd for French-English translation tasks.
@@ -14,6 +14,7 @@ In the training phase, a gradually weakening teacher-forcing method is used to m
   <img src="./IMG/Model%20%20with%20attention.png" width="400" /> 
 </p>
  Model without Attention   Model with Attention 
+ 
 ### 2.2 Greedy Search or Beam Search
 <p float="center">
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Greedy-Search.png" width="400" />
