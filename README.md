@@ -15,14 +15,15 @@ In order not to consider the weight of the padding 0 part, the necessary section
   <img src="./IMG/Model%20%20without%20attention.png" width="400" />
   <img src="./IMG/Model%20%20with%20attention.png" width="400" /> 
 </p>
- Model without Attention   Model with Attention 
+ <center>Model without Attention            Model with Attention </center>
  
 ### 2.2 Greedy Search or Beam Search
 <p float="center">
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Greedy-Search.png" width="400" />
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Beam_Search.png" width="400" /> 
 </p>
-                                                   Greedy Search     Beam Search
+ <center>Greedy Search                Beam Search </center>
+
 
 ## 3. Colcusion
 1. For long sequences, the attention mechanism can significantly improve model performance
