@@ -1,7 +1,7 @@
 # Machine Translation Model based on encoder + decoder + attention
 
 ## 1. Introduction
-These 2 models are based on encoder-decoder structure. And is uesd for French-English translation tasks.
+There are 2 models based on encoder-decoder structure. And they are uesd for French-English translation tasks.
 
 The first model is the "encoder + simple decoder" structure, while the second model added the attention mechanism, and used two generation methods: greedy and beam search.
 
