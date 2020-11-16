@@ -17,3 +17,6 @@
 
 
 ## 3. Colcusion
+3.1 For long sequences, the attention mechanism can significantly improve model performance
+
+3.2 beam search can increase the diversity of results
