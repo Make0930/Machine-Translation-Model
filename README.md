@@ -16,7 +16,6 @@ In order not to consider the weight of the padding 0 part, the necessary section
   <img src="./IMG/Model%20%20with%20attention.png" width="400" /> 
 </p>
 
- <center>Model without Attention            Model with Attention </center>
  
 <p align="center">Model without Attention                 Model with Attention</p>
  
