@@ -1,4 +1,4 @@
-# Machine-Translation-Model
+# Machine Translation Model based on encoder + decoder + attention
 
 ## 1. Introduction
 
