@@ -8,4 +8,9 @@
   <img src="./IMG/Model%20%20with%20attention.png" width="400" /> 
 </p>
 
+<figure class="half">
+    <img src="./IMG/Model%20%20without%20attention.png">
+    <img src="./IMG/Model%20%20with%20attention.png">
+</figure>
+
 ## 3. Colcusion
