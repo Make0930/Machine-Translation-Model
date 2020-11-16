@@ -5,7 +5,9 @@ There are 2 models based on encoder-decoder structure. And they are uesd for Fre
 
 The first model is the "encoder + simple decoder" structure, while the second model added the attention mechanism, and used two generation methods: greedy and beam search.
 
-In the training phase, a gradually weakening teacher-forcing method is used to make the model converge as soon as possible but reduce the effect of exposure bias
+In the training phase, a gradually weakening teacher-forcing method is used to make the model converge as soon as possible but reduce the effect of exposure bias.
+
+In order not to consider the weight of the padding 0 part, the necessary section of weights is intercepted before calculating the attention.
 
 ## 2. Result-Compare
 ### 2.1 With or without Attention
