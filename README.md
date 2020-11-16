@@ -18,7 +18,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
 
  <center>Model without Attention            Model with Attention </center>
  
- <center>markdown居中文本</center>
+<p align="center">Model without Attention                 Model with Attention</p>
  
 ### 2.2 Greedy Search or Beam Search
 <p float="center">
