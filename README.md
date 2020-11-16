@@ -5,6 +5,8 @@ There are 2 models based on encoder-decoder structure. And they are uesd for Fre
 
 The first model is the "encoder + simple decoder" structure, while the second model added the attention mechanism, and used two generation methods: greedy and beam search.
 
+In the training phase, a gradually weakening teacher-forcing method is used to make the model converge as soon as possible but reduce the effect of exposure bias
+
 ## 2. Result-Compare
 ### 2.1 With or without Attention
 <p float="center">
@@ -23,3 +25,5 @@ The first model is the "encoder + simple decoder" structure, while the second mo
 3.1 For long sequences, the attention mechanism can significantly improve model performance
 
 3.2 Beam search can increase the diversity of results
+
+3.3 Teacher-forcing can effectively solve the problem of slow convergence and instability
