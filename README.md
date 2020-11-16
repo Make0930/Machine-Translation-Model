@@ -13,17 +13,17 @@ In the training phase, a gradually weakening teacher-forcing method is used to m
   <img src="./IMG/Model%20%20without%20attention.png" width="400" />
   <img src="./IMG/Model%20%20with%20attention.png" width="400" /> 
 </p>
-
+ Model without Attention   Model with Attention 
 ### 2.2 Greedy Search or Beam Search
 <p float="center">
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Greedy-Search.png" width="400" />
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Beam_Search.png" width="400" /> 
 </p>
-
+Greedy Search     Beam Search
 
 ## 3. Colcusion
-3.1 For long sequences, the attention mechanism can significantly improve model performance
+1. For long sequences, the attention mechanism can significantly improve model performance
 
-3.2 Beam search can increase the diversity of results
+2. Beam search can increase the diversity of results
 
-3.3 Teacher-forcing can effectively solve the problem of slow convergence and instability
+3. Teacher-forcing can effectively solve the problem of slow convergence and instability
