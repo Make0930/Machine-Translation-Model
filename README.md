@@ -25,7 +25,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Beam_Search.png" width="400" /> 
 </p>
 
- <center>Greedy Search     compares to            Beam Search </center>
+ <center>Greedy Search     compares to\u0009            Beam Search </center>
 
 
 ## 3. Colcusion
