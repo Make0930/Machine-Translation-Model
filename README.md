@@ -17,7 +17,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
 </p>
 
  
-<p align="center">Model without Attention    compares to \t            Model with Attention</p>
+<p align="center">Model without Attention    compares to '\t'            Model with Attention</p>
  
 ### 2.2 Greedy Search or Beam Search
 <p float="center">
