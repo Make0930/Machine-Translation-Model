@@ -17,7 +17,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
 </p>
 
  
-<p align="center">Model without Attention                 Model with Attention</p>
+<p align="center">Model without Attention    compares to             Model with Attention</p>
  
 ### 2.2 Greedy Search or Beam Search
 <p float="center">
@@ -25,7 +25,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
   <img src="https://github.com/Make0930/Machine-Translation-Model/blob/main/IMG/Beam_Search.png" width="400" /> 
 </p>
 
- <center>Greedy Search                Beam Search </center>
+ <center>Greedy Search     compares to            Beam Search </center>
 
 
 ## 3. Colcusion
