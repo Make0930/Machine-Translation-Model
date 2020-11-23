@@ -26,7 +26,7 @@ In order not to consider the weight of the padding 0 part, the necessary section
 
 
 
-## 3. Colcusion
+## 3. Conclusion
 1. For long sequences, the attention mechanism can significantly improve model performance
 
 2. Beam search can increase the diversity of results
